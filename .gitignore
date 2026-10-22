@@ -1,0 +1,19 @@
+# ESP-IDF 构建产物
+build/
+sdkconfig
+sdkconfig.old
+
+# 组件管理器
+managed_components/
+dependencies.lock
+
+# 主机侧测试产物
+test/host/build/
+*.o
+*.a
+*.out
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
