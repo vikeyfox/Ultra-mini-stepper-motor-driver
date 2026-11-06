@@ -1,0 +1,281 @@
+{
+  "meta": {
+    "secret": "fc455b998cbfc4c2e928a5ce754f1806e085abe27b0f8de112d953e341c5aef3",
+    "version": 1
+  },
+  "users": [
+    {
+      "id": "u_demo",
+      "email": "demo@lingua.com",
+      "name": "林夏",
+      "passwordSalt": "b497cba0c17ae1f5c51cd495ba76d2cb",
+      "passwordHash": "6b254db9857cab7e44a204890a7e3b4be330327edbd5388f33cd718b3a3eb41778ebe7c9da0c8b07f4aec994206b263d97cd434443e7ce23aaf911ce30b17cc7",
+      "targetLang": "en",
+      "dailyGoal": 60,
+      "createdAt": "2026-10-07",
+      "progress": {
+        "en-a1-u1-l1": {
+          "completedAt": "2026-10-28",
+          "bestScore": 92,
+          "attempts": 1,
+          "skills": {
+            "vocab": 96,
+            "grammar": 88,
+            "listening": 90,
+            "speaking": 94
+          },
+          "xp": 30
+        },
+        "en-a1-u1-l2": {
+          "completedAt": "2026-10-29",
+          "bestScore": 86,
+          "attempts": 1,
+          "skills": {
+            "vocab": 90,
+            "grammar": 82,
+            "listening": 84,
+            "speaking": 88
+          },
+          "xp": 30
+        },
+        "en-a1-u2-l1": {
+          "completedAt": "2026-10-31",
+          "bestScore": 78,
+          "attempts": 1,
+          "skills": {
+            "vocab": 86,
+            "grammar": 70,
+            "listening": 74,
+            "speaking": 82
+          },
+          "xp": 35
+        },
+        "en-a1-u2-l2": {
+          "completedAt": "2026-11-02",
+          "bestScore": 95,
+          "attempts": 1,
+          "skills": {
+            "vocab": 98,
+            "grammar": 92,
+            "listening": 94,
+            "speaking": 96
+          },
+          "xp": 35
+        },
+        "ja-a1-u1-l1": {
+          "completedAt": "2026-11-03",
+          "bestScore": 88,
+          "attempts": 1,
+          "skills": {
+            "vocab": 92,
+            "grammar": 84,
+            "listening": 86,
+            "speaking": 90
+          },
+          "xp": 30
+        }
+      },
+      "activity": {
+        "2026-10-28": 30,
+        "2026-10-29": 30,
+        "2026-10-31": 35,
+        "2026-11-02": 45,
+        "2026-11-03": 30,
+        "2026-11-04": 60,
+        "2026-11-05": 45,
+        "2026-11-06": 25
+      }
+    },
+    {
+      "id": "u_01",
+      "email": "chenyu@lingua.com",
+      "name": "陈屿",
+      "targetLang": "en",
+      "passwordSalt": "seed",
+      "passwordHash": "seed",
+      "createdAt": "2026-09-07",
+      "progress": {},
+      "activity": {
+        "2026-11-05": 120,
+        "2026-11-04": 90,
+        "2026-11-06": 110,
+        "2026-11-03": 150,
+        "2026-11-02": 80,
+        "2026-11-01": 140,
+        "2026-10-31": 100
+      }
+    },
+    {
+      "id": "u_02",
+      "email": "sakura@lingua.com",
+      "name": "苏樱",
+      "targetLang": "ja",
+      "passwordSalt": "seed",
+      "passwordHash": "seed",
+      "createdAt": "2026-09-17",
+      "progress": {},
+      "activity": {
+        "2026-11-05": 100,
+        "2026-11-04": 120,
+        "2026-11-06": 90,
+        "2026-11-03": 60,
+        "2026-11-02": 110,
+        "2026-11-01": 70,
+        "2026-10-31": 95
+      }
+    },
+    {
+      "id": "u_03",
+      "email": "moon@lingua.com",
+      "name": "文浩",
+      "targetLang": "ko",
+      "passwordSalt": "seed",
+      "passwordHash": "seed",
+      "createdAt": "2026-09-27",
+      "progress": {},
+      "activity": {
+        "2026-11-05": 80,
+        "2026-11-04": 70,
+        "2026-11-06": 130,
+        "2026-11-03": 100,
+        "2026-11-02": 90
+      }
+    },
+    {
+      "id": "u_04",
+      "email": "jiangli@lingua.com",
+      "name": "江黎",
+      "targetLang": "en",
+      "passwordSalt": "seed",
+      "passwordHash": "seed",
+      "createdAt": "2026-08-28",
+      "progress": {},
+      "activity": {
+        "2026-11-06": 60,
+        "2026-11-04": 55,
+        "2026-11-02": 65,
+        "2026-10-31": 50
+      }
+    },
+    {
+      "id": "u_05",
+      "email": "hanyu@lingua.com",
+      "name": "韩雨",
+      "targetLang": "ja",
+      "passwordSalt": "seed",
+      "passwordHash": "seed",
+      "createdAt": "2026-10-12",
+      "progress": {},
+      "activity": {
+        "2026-11-06": 40,
+        "2026-11-05": 35,
+        "2026-11-03": 45,
+        "2026-11-01": 40
+      }
+    },
+    {
+      "id": "u_06",
+      "email": "luming@lingua.com",
+      "name": "陆明",
+      "targetLang": "ko",
+      "passwordSalt": "seed",
+      "passwordHash": "seed",
+      "createdAt": "2026-10-22",
+      "progress": {},
+      "activity": {
+        "2026-11-06": 30,
+        "2026-11-04": 25,
+        "2026-11-02": 35
+      }
+    }
+  ],
+  "posts": [
+    {
+      "id": "p_01",
+      "userId": "u_02",
+      "author": "苏樱",
+      "authorLang": "ja",
+      "content": "今天终于把「はじめまして」这一课读到 90 分！跟着音频影子跟读三遍之后，日语语调明显自然了很多。有人也在练日语口语吗？",
+      "tag": "口语打卡",
+      "lang": "ja",
+      "createdAt": "2026-11-05",
+      "likes": [
+        "u_demo",
+        "u_05",
+        "u_01"
+      ],
+      "comments": [
+        {
+          "id": "c_01",
+          "userId": "u_05",
+          "author": "韩雨",
+          "content": "同练！影子跟读真的有效，我一般会录下来回放对比。",
+          "createdAt": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "id": "p_02",
+      "userId": "u_01",
+      "author": "陈屿",
+      "authorLang": "en",
+      "content": "分享一个小技巧：听力训练先盲听一遍抓住关键词，再看原文对照，最后只听不看。三轮下来，B1 面试那课的听力我已经能跟上 90% 了。",
+      "tag": "学习方法",
+      "lang": "en",
+      "createdAt": "2026-11-04",
+      "likes": [
+        "u_demo",
+        "u_03",
+        "u_04",
+        "u_02"
+      ],
+      "comments": [
+        {
+          "id": "c_02",
+          "userId": "u_demo",
+          "author": "林夏",
+          "content": "受教了，今晚就用这个方法复盘。",
+          "createdAt": "2026-11-04"
+        },
+        {
+          "id": "c_03",
+          "userId": "u_03",
+          "author": "文浩",
+          "content": "三段式听力法确实好用，韩语也同样适用。",
+          "createdAt": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "id": "p_03",
+      "userId": "u_03",
+      "author": "文浩",
+      "authorLang": "ko",
+      "content": "连续学习第 12 天。把「예약하기」的场景对话背下来后，上周真的在首尔用上了，店员还夸我发音不错！",
+      "tag": "学习故事",
+      "lang": "ko",
+      "createdAt": "2026-11-03",
+      "likes": [
+        "u_demo",
+        "u_06",
+        "u_05"
+      ],
+      "comments": []
+    },
+    {
+      "id": "p_04",
+      "userId": "u_04",
+      "author": "江黎",
+      "authorLang": "en",
+      "content": "今日目标 60 XP 完成。复习时发现语法错题集中在现在完成时，准备明天专门再刷一遍 Unit 5 的语法练习。",
+      "tag": "每日目标",
+      "lang": "en",
+      "createdAt": "2026-11-06",
+      "likes": [
+        "u_01",
+        "u_02"
+      ],
+      "comments": []
+    }
+  ]
+}
